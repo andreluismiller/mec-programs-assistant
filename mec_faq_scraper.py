@@ -17,6 +17,7 @@ Uso:
         results = scrape_faq_pages(urls)
 """
 
+import csv
 import json
 import logging
 import time
@@ -406,7 +407,6 @@ STRATEGIES = [
     ("heading_based",     _strategy_heading_based),
 ]
 
-
 def _extract_faq(soup: BeautifulSoup) -> list[dict]:
     """Tenta cada estratégia em ordem e retorna o primeiro resultado não-vazio."""
     for name, fn in STRATEGIES:
@@ -420,29 +420,153 @@ def _extract_faq(soup: BeautifulSoup) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Carregamento de metadados externos (CSV)
+# ---------------------------------------------------------------------------
+ 
+#: Campos do CSV que serão incorporados aos registros, mapeados para seus
+#: nomes de coluna originais (chave do dict → cabeçalho da coluna no CSV).
+_METADATA_FIELDS: dict[str, str] = {
+    "nome":      "nome",
+    "termos":    "keywords",
+    "sinonimos": "sinonimos",
+}
+ 
+#: Valor padrão para campos de metadados ausentes.
+_METADATA_EMPTY: dict[str, str] = {k: "" for k in _METADATA_FIELDS}
+ 
+ 
+def _load_metadata(csv_path: str) -> dict[str, dict]:
+    """
+    Lê o CSV de metadados e retorna um dicionário indexado pela URL (coluna
+    'Fonte'), onde cada valor é um dict com os demais campos do CSV.
+ 
+    O CSV pode conter uma linha vazia inicial (exportação do Excel); ela é
+    ignorada automaticamente.
+ 
+    Args:
+        csv_path: Caminho para o arquivo CSV de metadados.
+ 
+    Returns:
+        Exemplo::
+ 
+            {
+              "https://www.gov.br/mec/.../pdde": {
+                  "nome":      "Programa Dinheiro Direto na Escola (PDDE)",
+                  "termos":    "financiamento escolar, ...",
+                  "sinonimos": "PDDE Interativo, ...",
+              },
+              ...
+            }
+    """
+    metadata: dict[str, dict] = {}
+    try:
+        with open(csv_path, newline="", encoding="utf-8-sig") as fh:
+            # Pula linhas vazias iniciais e usa a primeira linha não-vazia
+            # como cabeçalho (lida com exports do Excel que adicionam uma
+            # linha extra vazia antes do header real).
+            reader = csv.reader(fh)
+            header: list[str] = []
+            rows: list[list[str]] = []
+            for row in reader:
+                stripped = [c.strip() for c in row]
+                if not header:
+                    # Aceita como cabeçalho a primeira linha que contenha "Fonte"
+                    if "fonte" in stripped:
+                        header = stripped
+                else:
+                    if any(stripped):       # ignora linhas totalmente vazias
+                        rows.append(stripped)
+ 
+            if not header:
+                log.warning("CSV '%s': coluna 'fonte' não encontrada. Metadados ignorados.", csv_path)
+                return metadata
+ 
+            # Índices das colunas de interesse
+            try:
+                idx_fonte = header.index("fonte")
+            except ValueError:
+                log.warning("CSV '%s': cabeçalho 'fonte' ausente.", csv_path)
+                return metadata
+ 
+            col_indices = {}
+            for field, col_name in _METADATA_FIELDS.items():
+                try:
+                    col_indices[field] = header.index(col_name)
+                except ValueError:
+                    log.warning("CSV '%s': coluna '%s' não encontrada; campo '%s' será vazio.", csv_path, col_name, field)
+                    col_indices[field] = None
+ 
+            for row in rows:
+                # Protege contra linhas com menos colunas do que o cabeçalho
+                def _get(i: Optional[int]) -> str:
+                    return row[i].strip() if i is not None and i < len(row) else ""
+ 
+                fonte = _get(idx_fonte)
+                if not fonte:
+                    continue
+ 
+                # Normaliza a URL removendo barra final para comparação uniforme
+                fonte = fonte.rstrip("/")
+                metadata[fonte] = {field: _get(i) for field, i in col_indices.items()}
+ 
+    except FileNotFoundError:
+        log.error("Arquivo de metadados '%s' não encontrado. Metadados ignorados.", csv_path)
+    except Exception as exc:
+        log.error("Erro ao ler CSV '%s': %s. Metadados ignorados.", csv_path, exc)
+ 
+    log.info("Metadados carregados: %d entradas de '%s'.", len(metadata), csv_path)
+    return metadata
+ 
+ 
+# ---------------------------------------------------------------------------
 # Função principal
 # ---------------------------------------------------------------------------
-
-def scrape_faq_pages(urls: list[str]) -> list[dict]:
+ 
+def scrape_faq_pages(urls: list[str], metadata_csv: Optional[str] = None) -> list[dict]:
     """
     Recebe uma lista de URLs de FAQ do MEC e retorna um array de dicts com
-    as chaves 'id', 'programa', 'agrupamento', 'pergunta' e 'resposta'.
+    as chaves 'id', 'programa', 'agrupamento', 'pergunta' e 'resposta',
+    opcionalmente enriquecidos com os campos do CSV de metadados
+    ('nome', 'termos', 'sinonimos').
+ 
+    Args:
+        urls:         Lista de URLs das páginas de FAQ a processar.
+        metadata_csv: Caminho opcional para o CSV de metadados. Quando
+                      fornecido, os campos 'nome', 'termos' e 'sinonimos'
+                      são adicionados a cada registro usando a URL como
+                      chave de mapeamento (coluna 'fonte' do CSV).
+                      Registros sem correspondência no CSV recebem strings
+                      vazias nesses campos.
+ 
+    Returns:
+        Lista de dicionários JSON-serializáveis.
     """
+    # Carrega metadados uma única vez, antes do loop de requisições
+    meta_lookup: dict[str, dict] = {}
+    if metadata_csv:
+        meta_lookup = _load_metadata(metadata_csv)
+ 
     results: list[dict] = []
-
+ 
     with requests.Session() as session:
         for idx, url in enumerate(urls):
             log.info("(%d/%d) Processando: %s", idx + 1, len(urls), url)
-
+ 
             html = _get_html(url, session)
             if html is None:
                 log.warning("  Pulando URL por falha de requisição.")
                 continue
-
+ 
             soup = BeautifulSoup(html, "lxml")
             programa = _get_program_name(soup)
             log.info("  Programa: %s", programa)
-
+ 
+            # Busca metadados correspondentes à URL atual (sem barra final)
+            url_key = url.rstrip("/")
+            meta = meta_lookup.get(url_key, _METADATA_EMPTY)
+            if meta_lookup and url_key not in meta_lookup:
+                log.warning("  URL sem correspondência no CSV de metadados: %s", url)
+ 
             page_pairs = _extract_faq(soup)
             for pair in page_pairs:
                 results.append({
@@ -451,21 +575,22 @@ def scrape_faq_pages(urls: list[str]) -> list[dict]:
                     "agrupamento": pair["agrupamento"],
                     "pergunta":    pair["pergunta"],
                     "resposta":    pair["resposta"],
+                    **meta,         # nome, termos, sinonimos (vazio se ausente)
                 })
-
+ 
             log.info("  %d registro(s) adicionado(s).", len(page_pairs))
-
+ 
             if idx < len(urls) - 1:
                 time.sleep(REQUEST_DELAY)
-
+ 
     log.info("Total geral de registros extraídos: %d", len(results))
     return results
-
-
+ 
+ 
 # ---------------------------------------------------------------------------
 # Entry-point CLI
 # ---------------------------------------------------------------------------
-
+ 
 def main():
     urls = [
         # Sem agrupamento → agrupamento = "geral"
@@ -499,16 +624,19 @@ def main():
         "https://www.gov.br/mec/pt-br/acesso-a-informacao/perguntas-frequentes/sisu",
         "https://www.gov.br/mec/pt-br/acesso-a-informacao/perguntas-frequentes/politica-de-regulacao-e-supervisao-da-educacao-superior"
     ]
-
-    data = scrape_faq_pages(urls)
-
-    output_file = "mec_faq_raw.json"
+ 
+    # Caminho para o CSV de metadados (None = não enriquece os registros)
+    metadata_csv = "metadata.csv"
+ 
+    data = scrape_faq_pages(urls, metadata_csv=metadata_csv)
+ 
+    output_file = "mec_faq.json"
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-
+ 
     log.info("Resultado salvo em '%s'.", output_file)
     print(json.dumps(data, ensure_ascii=False, indent=2))
-
-
+ 
+ 
 if __name__ == "__main__":
     main()
