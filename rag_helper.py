@@ -67,17 +67,9 @@ class RAGBase:
             question=query, context=context
         )
 
-    def llm(self, prompt):
-        """
-        Chama o modelo via API compatível com OpenAI (Groq).
 
-        Returns:
-            dict com as chaves:
-                - 'texto':          resposta gerada pelo modelo
-                - 'tokens_input':   tokens consumidos no prompt
-                - 'tokens_output':  tokens gerados na resposta
-                - 'tokens_total':   soma de input + output
-        """
+    def llm(self, prompt):
+        """Chama o modelo via API compatível com OpenAI (Groq) e retorna o texto gerado."""
         messages = [
             {'role': 'system', 'content': self.instructions},
             {'role': 'user',   'content': prompt},
@@ -86,31 +78,60 @@ class RAGBase:
             model=self.model,
             messages=messages,
         )
-        usage = response.usage
-        return {
-            'texto':         response.choices[0].message.content,
-            'tokens_input':  usage.prompt_tokens,
-            'tokens_output': usage.completion_tokens,
-            'tokens_total':  usage.total_tokens,
-        }
-
+        return response.choices[0].message.content
+ 
     def rag(self, query):
-        """
-        Executa o pipeline completo de RAG.
-
-        Returns:
-            dict com as chaves:
-                - 'resposta':       texto final gerado pelo modelo
-                - 'tokens_input':   tokens consumidos no prompt
-                - 'tokens_output':  tokens gerados na resposta
-                - 'tokens_total':   soma de input + output
-        """
+        """Executa o pipeline completo de RAG e retorna o texto da resposta."""
         search_results = self.search(query)
         prompt = self.build_prompt(query, search_results)
-        llm_result = self.llm(prompt)
-        return {
-            'resposta':      llm_result['texto'],
-            'tokens_input':  llm_result['tokens_input'],
-            'tokens_output': llm_result['tokens_output'],
-            'tokens_total':  llm_result['tokens_total'],
-        }
+        # return self.llm(prompt)
+        answer = self.llm(prompt)
+        return answer
+
+    # def llm(self, prompt):
+    #     """
+    #     Chama o modelo via API compatível com OpenAI (Groq).
+
+    #     Returns:
+    #         dict com as chaves:
+    #             - 'texto':          resposta gerada pelo modelo
+    #             - 'tokens_input':   tokens consumidos no prompt
+    #             - 'tokens_output':  tokens gerados na resposta
+    #             - 'tokens_total':   soma de input + output
+    #     """
+    #     messages = [
+    #         {'role': 'system', 'content': self.instructions},
+    #         {'role': 'user',   'content': prompt},
+    #     ]
+    #     response = self.llm_client.chat.completions.create(
+    #         model=self.model,
+    #         messages=messages,
+    #     )
+    #     usage = response.usage
+    #     return {
+    #         'texto':         response.choices[0].message.content,
+    #         'tokens_input':  usage.prompt_tokens,
+    #         'tokens_output': usage.completion_tokens,
+    #         'tokens_total':  usage.total_tokens,
+    #     }
+
+    # def rag(self, query):
+    #     """
+    #     Executa o pipeline completo de RAG.
+
+    #     Returns:
+    #         dict com as chaves:
+    #             - 'resposta':       texto final gerado pelo modelo
+    #             - 'tokens_input':   tokens consumidos no prompt
+    #             - 'tokens_output':  tokens gerados na resposta
+    #             - 'tokens_total':   soma de input + output
+    #     """
+    #     search_results = self.search(query)
+    #     prompt = self.build_prompt(query, search_results)
+    #     llm_result = self.llm(prompt)
+    #     return {
+    #         'resposta':      llm_result['texto'],
+    #         'tokens_input':  llm_result['tokens_input'],
+    #         'tokens_output': llm_result['tokens_output'],
+    #         'tokens_total':  llm_result['tokens_total'],
+    #     }
