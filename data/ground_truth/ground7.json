@@ -1,0 +1,642 @@
+[
+  {
+    "id": "868235b9b7e14482ba02ec5415ed3035",
+    "pergunta": "Institutos Federais (IFs) estão contemplados no escopo de participação dos editais do InovaLab?"
+  },
+  {
+    "id": "868235b9b7e14482ba02ec5415ed3035",
+    "pergunta": "Como uma Universidade Estadual pode se qualificar para receber os recursos deste programa federal?"
+  },
+  {
+    "id": "868235b9b7e14482ba02ec5415ed3035",
+    "pergunta": "Universidades privadas com certificação filantrópica podem submeter projetos de laboratório?"
+  },
+  {
+    "id": "868235b9b7e14482ba02ec5415ed3035",
+    "pergunta": "A captação de recursos via InovaLab é restrita exclusivamente às Instituições Federais de Ensino Superior (IFES)?"
+  },
+  {
+    "id": "868235b9b7e14482ba02ec5415ed3035",
+    "pergunta": "Quais são os critérios institucionais e a natureza jurídica exigidos para o envio de propostas ao programa?"
+  },
+  {
+    "id": "6ba209cc529e4ba594274e1a6c3900d9",
+    "pergunta": "Posso usar a verba repassada pelo InovaLab para adequar a rede elétrica da sala onde o maquinário será instalado?"
+  },
+  {
+    "id": "6ba209cc529e4ba594274e1a6c3900d9",
+    "pergunta": "O orçamento aprovado no projeto cobre despesas com alvenaria e engenharia civil na universidade?"
+  },
+  {
+    "id": "6ba209cc529e4ba594274e1a6c3900d9",
+    "pergunta": "Como a instituição de ensino deve custear a infraestrutura física necessária para receber os novos equipamentos?"
+  },
+  {
+    "id": "6ba209cc529e4ba594274e1a6c3900d9",
+    "pergunta": "É permitido incluir rubricas de material de construção e aquisição de bens permanentes na mesma planilha de custos?"
+  },
+  {
+    "id": "6ba209cc529e4ba594274e1a6c3900d9",
+    "pergunta": "A aquisição de equipamentos e materiais permanentes é o único destino legal permitido para o repasse?"
+  },
+  {
+    "id": "3f9848505cc4471db99b775dadcd8601",
+    "pergunta": "Como justificar o caráter multiusuário do laboratório no preenchimento do formulário de submissão?"
+  },
+  {
+    "id": "3f9848505cc4471db99b775dadcd8601",
+    "pergunta": "O laboratório pode ser vinculado a apenas um departamento, desde que atenda a turmas de diferentes graduações?"
+  },
+  {
+    "id": "3f9848505cc4471db99b775dadcd8601",
+    "pergunta": "Quais indicadores a universidade deve usar para provar que a compra otimizará o uso e evitará duplicidade?"
+  },
+  {
+    "id": "3f9848505cc4471db99b775dadcd8601",
+    "pergunta": "O que caracteriza operacionalmente um espaço multiusuário para as métricas de avaliação do MEC?"
+  },
+  {
+    "id": "3f9848505cc4471db99b775dadcd8601",
+    "pergunta": "Como montar uma governança que garanta o acesso de múltiplos cursos aos equipamentos adquiridos?"
+  },
+  {
+    "id": "dcbc7cd8fff04bb582a1813c80befcd8",
+    "pergunta": "A verba do programa permite a compra de óculos de Realidade Virtual e softwares de Inteligência Artificial?"
+  },
+  {
+    "id": "dcbc7cd8fff04bb582a1813c80befcd8",
+    "pergunta": "Displays braille e outros recursos de tecnologia assistiva podem compor a lista de aquisições do projeto?"
+  },
+  {
+    "id": "dcbc7cd8fff04bb582a1813c80befcd8",
+    "pergunta": "Há alguma limitação quanto à importação de braços robóticos e tecnologias de ponta com os recursos?"
+  },
+  {
+    "id": "dcbc7cd8fff04bb582a1813c80befcd8",
+    "pergunta": "Impressoras 3D industriais se enquadram no perfil de tecnologias financiáveis pelo InovaLab?"
+  },
+  {
+    "id": "dcbc7cd8fff04bb582a1813c80befcd8",
+    "pergunta": "Quais as diretrizes para classificar um equipamento como 'tecnologia de ponta' ou 'acessibilidade' no edital?"
+  },
+  {
+    "id": "57b5076427dd429f8743f025a9e3a196",
+    "pergunta": "O projeto será desclassificado se a IFES não demonstrar dotação orçamentária própria para manutenção preventiva?"
+  },
+  {
+    "id": "57b5076427dd429f8743f025a9e3a196",
+    "pergunta": "Como a gestão universitária deve atestar a qualificação do corpo técnico que irá operar os novos equipamentos?"
+  },
+  {
+    "id": "57b5076427dd429f8743f025a9e3a196",
+    "pergunta": "É obrigatório apresentar um plano de sustentabilidade financeira a longo prazo para o funcionamento do laboratório?"
+  },
+  {
+    "id": "57b5076427dd429f8743f025a9e3a196",
+    "pergunta": "A universidade pode contratar técnicos terceirizados para comprovar a capacidade de manutenção operacional?"
+  },
+  {
+    "id": "57b5076427dd429f8743f025a9e3a196",
+    "pergunta": "Quais documentos servem como comprovante de que o maquinário não ficará ocioso por falta de insumos?"
+  },
+  {
+    "id": "8023626bc72341029ee5b4944e5fe9c0",
+    "pergunta": "A secretaria de educação pode negar vaga em creche alegando que os responsáveis pela criança estão desempregados?"
+  },
+  {
+    "id": "8023626bc72341029ee5b4944e5fe9c0",
+    "pergunta": "É legal exigir comprovante de renda ou carteira de trabalho assinada para matricular a criança na educação infantil?"
+  },
+  {
+    "id": "8023626bc72341029ee5b4944e5fe9c0",
+    "pergunta": "Crianças de famílias estrangeiras indocumentadas têm o mesmo direito à matrícula na rede pública municipal?"
+  },
+  {
+    "id": "8023626bc72341029ee5b4944e5fe9c0",
+    "pergunta": "O que diz a legislação sobre a garantia de acesso sem distinção de deficiência física ou nível socioeconômico?"
+  },
+  {
+    "id": "8023626bc72341029ee5b4944e5fe9c0",
+    "pergunta": "A instituição privada pode criar critérios restritivos baseados na religião da família para aceitar alunos?"
+  },
+  {
+    "id": "16404bb4efa2414db181cb88696ab152",
+    "pergunta": "Quais normas federais e estaduais a equipe técnica do município deve observar ao redigir o ato de criação de um CMEI?"
+  },
+  {
+    "id": "16404bb4efa2414db181cb88696ab152",
+    "pergunta": "Como as Diretrizes Curriculares Nacionais (MEC/CNE 2009) se articulam com a Lei Orgânica do município?"
+  },
+  {
+    "id": "16404bb4efa2414db181cb88696ab152",
+    "pergunta": "O sistema de ensino municipal tem autonomia para ignorar os parâmetros do Código Sanitário local na construção da creche?"
+  },
+  {
+    "id": "16404bb4efa2414db181cb88696ab152",
+    "pergunta": "A Resolução CEB/CNE nº 1/2024 sobrepõe-se às resoluções específicas do Conselho Estadual de Educação?"
+  },
+  {
+    "id": "16404bb4efa2414db181cb88696ab152",
+    "pergunta": "Quais exigências de documentação e conforto devem constar no regimento para que a supervisão aprove o funcionamento?"
+  },
+  {
+    "id": "649198308a41491092a6ed6def4b150f",
+    "pergunta": "O Conselho Municipal de Educação pode estipular o sorteio público como método prioritário para alocar vagas na pré-escola?"
+  },
+  {
+    "id": "649198308a41491092a6ed6def4b150f",
+    "pergunta": "Como a rede pública pode aplicar o índice de vulnerabilidade social na fila de espera sem infringir o direito à educação?"
+  },
+  {
+    "id": "649198308a41491092a6ed6def4b150f",
+    "pergunta": "A prioridade para filhos de mães trabalhadoras inviabiliza a matrícula de crianças cujos pais estão no mercado informal?"
+  },
+  {
+    "id": "649198308a41491092a6ed6def4b150f",
+    "pergunta": "Quais os limites legais para o município utilizar o local de moradia (zoneamento) como filtro de seleção?"
+  },
+  {
+    "id": "649198308a41491092a6ed6def4b150f",
+    "pergunta": "Como garantir a transparência da fila de vagas de forma que ela seja entendida pela comunidade como inclusiva?"
+  },
+  {
+    "id": "de4287db771a4ea7bcbc6e0d174e0b41",
+    "pergunta": "Os pais podem ser acionados pelo Conselho Tutelar se não matricularem a criança de 4 anos no sistema de ensino?"
+  },
+  {
+    "id": "de4287db771a4ea7bcbc6e0d174e0b41",
+    "pergunta": "A partir de qual data de corte exata a educação básica se torna uma etapa de responsabilidade compulsória da família?"
+  },
+  {
+    "id": "de4287db771a4ea7bcbc6e0d174e0b41",
+    "pergunta": "Se a criança faz 4 anos em maio, ela é obrigada a estar matriculada na pré-escola no início daquele ano letivo?"
+  },
+  {
+    "id": "de4287db771a4ea7bcbc6e0d174e0b41",
+    "pergunta": "Qual é a base legal que transforma a pré-escola em etapa obrigatória em contraste com a creche (0 a 3 anos)?"
+  },
+  {
+    "id": "de4287db771a4ea7bcbc6e0d174e0b41",
+    "pergunta": "Como a secretaria orienta as escolas a lidar com matrículas fora do prazo legal de obrigatoriedade familiar?"
+  },
+  {
+    "id": "7270fa93872347a695db2d8c653d0b2b",
+    "pergunta": "Uma criança que completará 6 anos em abril deve ser transferida para o 1º ano do Ensino Fundamental?"
+  },
+  {
+    "id": "7270fa93872347a695db2d8c653d0b2b",
+    "pergunta": "Como a Resolução CNE/CEB nº 5/2009 atua sobre os casos de retenção escolar na transição para os anos iniciais?"
+  },
+  {
+    "id": "7270fa93872347a695db2d8c653d0b2b",
+    "pergunta": "É possível abrir uma exceção administrativa se os pais apresentarem laudo atestando maturidade cognitiva para o 1º ano?"
+  },
+  {
+    "id": "7270fa93872347a695db2d8c653d0b2b",
+    "pergunta": "Qual o procedimento correto de enturmação para alunos nascidos no segundo semestre do ano vigente?"
+  },
+  {
+    "id": "7270fa93872347a695db2d8c653d0b2b",
+    "pergunta": "A diretora pode barrar a permanência na educação infantil se a criança já souber ler e escrever aos 6 anos incompletos?"
+  },
+  {
+    "id": "644a7778594c47208d2f89f58ad709e2",
+    "pergunta": "A escola pode mesclar faixas etárias diferentes em uma mesma sala alegando particularidades do contexto territorial?"
+  },
+  {
+    "id": "644a7778594c47208d2f89f58ad709e2",
+    "pergunta": "Como o RH deve planejar as escalas para garantir que as crianças nunca fiquem sozinhas nos horários de café e almoço?"
+  },
+  {
+    "id": "644a7778594c47208d2f89f58ad709e2",
+    "pergunta": "O assistente de sala ou monitor pode assumir a turma sozinho no período em que o professor titular estiver de licença?"
+  },
+  {
+    "id": "644a7778594c47208d2f89f58ad709e2",
+    "pergunta": "O que a legislação orienta sobre a composição de turmas frente a limitações do espaço físico das instituições?"
+  },
+  {
+    "id": "644a7778594c47208d2f89f58ad709e2",
+    "pergunta": "Como assegurar legalmente a substituição imediata do docente sem ferir a proposta pedagógica contínua?"
+  },
+  {
+    "id": "38ba86d1c9aa434eb66a141878037108",
+    "pergunta": "Pela Resolução CEB/CNE nº 01/2024, quantos bebês de 8 meses podem ficar sob a responsabilidade de um único educador?"
+  },
+  {
+    "id": "38ba86d1c9aa434eb66a141878037108",
+    "pergunta": "Se a turma possui crianças de 3 e 4 anos misturadas, qual proporção de alunos por professor deve ser obedecida?"
+  },
+  {
+    "id": "38ba86d1c9aa434eb66a141878037108",
+    "pergunta": "Uma sala de pré-escola (4 e 5 anos) com 25 alunos operando com apenas um educador está irregular perante o CNE?"
+  },
+  {
+    "id": "38ba86d1c9aa434eb66a141878037108",
+    "pergunta": "Como calcular a necessidade de contratação de profissionais para uma creche que abriu vagas para 24 crianças de 2 anos?"
+  },
+  {
+    "id": "38ba86d1c9aa434eb66a141878037108",
+    "pergunta": "A adição de um monitor ou estagiário altera o limite legal de 18 crianças de 37 a 48 meses por professor habilitado?"
+  },
+  {
+    "id": "f401934e99934117be62ff0f7673d0de",
+    "pergunta": "A prefeitura pode aprovar um calendário letivo para a educação infantil com 195 dias de trabalho educacional?"
+  },
+  {
+    "id": "f401934e99934117be62ff0f7673d0de",
+    "pergunta": "Como o conselho de classe contabiliza as horas de festas e feiras pedagógicas dentro da carga mínima de 800 horas?"
+  },
+  {
+    "id": "f401934e99934117be62ff0f7673d0de",
+    "pergunta": "Se houver greve, as escolas são obrigadas por lei a repor os dias para atingir a marca de 200 dias de trabalho estipulada pela LDB?"
+  },
+  {
+    "id": "f401934e99934117be62ff0f7673d0de",
+    "pergunta": "Qual a implicação jurídica de um município oferecer carga horária anual inferior à exigência base do Ministério da Educação?"
+  },
+  {
+    "id": "f401934e99934117be62ff0f7673d0de",
+    "pergunta": "O planejamento das secretarias pode distribuir as 800 horas anuais em menos de 200 dias úteis caso a jornada seja em tempo integral?"
+  },
+  {
+    "id": "c6933e78bc424502b241632ac8ca4d87",
+    "pergunta": "A escola particular tem total autonomia para decidir se abrirá às 7h ou às 9h sem consultar o Conselho Tutelar?"
+  },
+  {
+    "id": "c6933e78bc424502b241632ac8ca4d87",
+    "pergunta": "Os diretores de creches públicas podem flexibilizar o horário de entrada e saída por conta própria ou precisam de portaria da secretaria?"
+  },
+  {
+    "id": "c6933e78bc424502b241632ac8ca4d87",
+    "pergunta": "Como as secretarias de educação definem a grade de funcionamento de maneira a atender a demanda da comunidade trabalhadora?"
+  },
+  {
+    "id": "c6933e78bc424502b241632ac8ca4d87",
+    "pergunta": "Existe regulamentação do MEC limitando os horários que a rede privada pode estipular para o atendimento infantil?"
+  },
+  {
+    "id": "c6933e78bc424502b241632ac8ca4d87",
+    "pergunta": "A legislação impede que um município estabeleça turnos diferenciados para áreas rurais e urbanas sob a mesma secretaria?"
+  },
+  {
+    "id": "7cbea1c2a20c407ab16135ba88bab1e6",
+    "pergunta": "Por que o modelo de assistência ininterrupta (sem férias) é considerado inadequado para a educação infantil?"
+  },
+  {
+    "id": "7cbea1c2a20c407ab16135ba88bab1e6",
+    "pergunta": "Como as férias coletivas impactam o replanejamento curricular e as avaliações dos professores de creche?"
+  },
+  {
+    "id": "7cbea1c2a20c407ab16135ba88bab1e6",
+    "pergunta": "O direito constitucional à convivência familiar (arts. 227 e 229) pode ser usado como argumento legal contra a abertura de creches o ano todo?"
+  },
+  {
+    "id": "7cbea1c2a20c407ab16135ba88bab1e6",
+    "pergunta": "É permitido que a jornada de creches e pré-escolas aconteça nos finais de semana para atender mães trabalhadoras?"
+  },
+  {
+    "id": "7cbea1c2a20c407ab16135ba88bab1e6",
+    "pergunta": "O período de recesso na educação infantil deve ter obrigatoriamente a mesma duração das férias do ensino fundamental?"
+  },
+  {
+    "id": "1eb09e7e34764666aefcc87681c770c3",
+    "pergunta": "Quais os requisitos formais que a secretaria de educação deve cumprir para abrir 'creches de plantão' durante o recesso de janeiro?"
+  },
+  {
+    "id": "1eb09e7e34764666aefcc87681c770c3",
+    "pergunta": "O município pode obrigar todos os alunos de uma determinada unidade a frequentarem as atividades no período de férias escolares?"
+  },
+  {
+    "id": "1eb09e7e34764666aefcc87681c770c3",
+    "pergunta": "Como a coordenação deve elaborar a proposta pedagógica específica que diferencia as atividades de férias do ano letivo regular?"
+  },
+  {
+    "id": "1eb09e7e34764666aefcc87681c770c3",
+    "pergunta": "O atendimento nas férias pode consumir integralmente os 30 dias de recesso previstos no calendário escolar das crianças?"
+  },
+  {
+    "id": "1eb09e7e34764666aefcc87681c770c3",
+    "pergunta": "A prefeitura precisa comprovar estatisticamente a demanda familiar antes de empenhar recursos para atividades de recesso?"
+  },
+  {
+    "id": "9ee9f8cad5cb4cfc86fc4f0ae13b362b",
+    "pergunta": "As secretarias municipais correm o risco de perder verbas do Fundeb se ofertarem educação infantil no período noturno?"
+  },
+  {
+    "id": "9ee9f8cad5cb4cfc86fc4f0ae13b362b",
+    "pergunta": "Se uma entidade filantrópica acolhe crianças à noite, esse atendimento pode ser categorizado juridicamente como educação infantil?"
+  },
+  {
+    "id": "9ee9f8cad5cb4cfc86fc4f0ae13b362b",
+    "pergunta": "Como as Diretrizes Curriculares Nacionais embasam a proibição do funcionamento de pré-escolas após as 18 horas?"
+  },
+  {
+    "id": "9ee9f8cad5cb4cfc86fc4f0ae13b362b",
+    "pergunta": "O princípio da indissociabilidade entre educar e cuidar permite arranjos noturnos em casos de extrema vulnerabilidade?"
+  },
+  {
+    "id": "9ee9f8cad5cb4cfc86fc4f0ae13b362b",
+    "pergunta": "Quais são as alternativas assistenciais legais para municípios que enfrentam alta demanda de mães que trabalham no turno da noite?"
+  },
+  {
+    "id": "1e3b2839c7634343b1ba8c1321f581ed",
+    "pergunta": "É permitida a instalação de turmas de pré-escola no mesmo prédio onde operam classes de ensino fundamental 1 e 2?"
+  },
+  {
+    "id": "1e3b2839c7634343b1ba8c1321f581ed",
+    "pergunta": "Quais adaptações estruturais e de acessibilidade são imperativas quando crianças de 5 e 12 anos dividem o mesmo pátio escolar?"
+  },
+  {
+    "id": "1e3b2839c7634343b1ba8c1321f581ed",
+    "pergunta": "Como a proposta pedagógica deve tratar o uso de espaços comuns, como refeitórios, em escolas com faixas etárias mistas?"
+  },
+  {
+    "id": "1e3b2839c7634343b1ba8c1321f581ed",
+    "pergunta": "O Conselho Estadual de Educação pode vetar o compartilhamento se a vigilância sanitária encontrar inadequação nos banheiros infantis?"
+  },
+  {
+    "id": "1e3b2839c7634343b1ba8c1321f581ed",
+    "pergunta": "De que forma o município deve formalizar essa ampliação de turmas da educação infantil aproveitando a ociosidade do ensino fundamental?"
+  },
+  {
+    "id": "d0799e558a964bad871d90106f77fe92",
+    "pergunta": "Qual o fluxo burocrático inicial para dar entrada no pedido de autorização de uma nova creche junto ao Conselho Municipal?"
+  },
+  {
+    "id": "d0799e558a964bad871d90106f77fe92",
+    "pergunta": "Quais documentos e laudos são habitualmente exigidos na visita da equipe da secretaria de educação à nova instituição?"
+  },
+  {
+    "id": "d0799e558a964bad871d90106f77fe92",
+    "pergunta": "Uma escola de educação infantil privada pode começar a operar antes da publicação da portaria de autorização no Diário Oficial?"
+  },
+  {
+    "id": "d0799e558a964bad871d90106f77fe92",
+    "pergunta": "Como as instituições provam que atendem aos padrões de qualidade normatizados em diferentes instâncias (bombeiros, saúde, educação)?"
+  },
+  {
+    "id": "d0799e558a964bad871d90106f77fe92",
+    "pergunta": "O que acontece administrativamente se a equipe de inspeção identificar inadequações físicas durante a vistoria de funcionamento?"
+  },
+  {
+    "id": "e8589f5d4578412a87d1ec2215776451",
+    "pergunta": "As creches públicas podem exigir laudo médico prévio para realizar a matrícula de bebês com transtornos globais do desenvolvimento?"
+  },
+  {
+    "id": "e8589f5d4578412a87d1ec2215776451",
+    "pergunta": "Como a perspectiva da educação inclusiva determina a prioridade de vagas para crianças com altas habilidades?"
+  },
+  {
+    "id": "e8589f5d4578412a87d1ec2215776451",
+    "pergunta": "A escola tem autonomia para recusar a matrícula alegando falta de estrutura para o Atendimento Educacional Especializado (AEE)?"
+  },
+  {
+    "id": "e8589f5d4578412a87d1ec2215776451",
+    "pergunta": "De que maneira a rede municipal deve organizar os serviços de apoio e especialização para atender crianças com deficiência múltipla?"
+  },
+  {
+    "id": "e8589f5d4578412a87d1ec2215776451",
+    "pergunta": "O que caracteriza juridicamente a obrigatoriedade da inclusão de crianças com deficiência desde a primeira etapa da educação básica?"
+  },
+  {
+    "id": "8cb374a246f6410ba0dc6ecb1bff2401",
+    "pergunta": "A equipe terceirizada, como merendeiros e porteiros, deve ter assento nas reuniões de formulação da proposta pedagógica?"
+  },
+  {
+    "id": "8cb374a246f6410ba0dc6ecb1bff2401",
+    "pergunta": "Como operacionalizar a escuta das necessidades e interesses das crianças no processo de avaliação curricular institucional?"
+  },
+  {
+    "id": "8cb374a246f6410ba0dc6ecb1bff2401",
+    "pergunta": "O documento norteador da escola perde sua validade legal se for redigido exclusivamente pela direção e coordenação?"
+  },
+  {
+    "id": "8cb374a246f6410ba0dc6ecb1bff2401",
+    "pergunta": "De que forma líderes comunitários e representantes de bairro podem influenciar legitimamente as metas educativas do estabelecimento?"
+  },
+  {
+    "id": "8cb374a246f6410ba0dc6ecb1bff2401",
+    "pergunta": "Quais mecanismos de gestão democrática garantem que todos se sintam responsáveis pelos resultados do trabalho educativo?"
+  },
+  {
+    "id": "a433ed58e6ed4d9380ab779a1a042d43",
+    "pergunta": "É papel da escola criar eventos de formação para que os pais compreendam as etapas do desenvolvimento humano e da inclusão?"
+  },
+  {
+    "id": "a433ed58e6ed4d9380ab779a1a042d43",
+    "pergunta": "Como o princípio da corresponsabilidade no cuidar afeta as decisões administrativas tomadas pela Associação de Pais e Mestres (APM)?"
+  },
+  {
+    "id": "a433ed58e6ed4d9380ab779a1a042d43",
+    "pergunta": "Os responsáveis podem vetar aspectos da proposta pedagógica se estes divergirem de suas crenças sobre educação e diversidade?"
+  },
+  {
+    "id": "a433ed58e6ed4d9380ab779a1a042d43",
+    "pergunta": "Quais estratégias os gestores devem usar para trazer famílias vulneráveis para vivenciar o cotidiano institucional sem causar constrangimento?"
+  },
+  {
+    "id": "a433ed58e6ed4d9380ab779a1a042d43",
+    "pergunta": "Como a legislação protege o direito da comunidade escolar de intervir e colaborar nas decisões do cotidiano da creche?"
+  },
+  {
+    "id": "e732506deeb84c25a9d5928cf5a51730",
+    "pergunta": "Como a compra de acervo e brinquedos, como bonecas negras e livros de autores negros, deve ser especificada nos editais de licitação?"
+  },
+  {
+    "id": "e732506deeb84c25a9d5928cf5a51730",
+    "pergunta": "Quais medidas o gestor deve adotar administrativamente caso flagre professores destinando tarefas menos atrativas exclusivamente a crianças negras?"
+  },
+  {
+    "id": "e732506deeb84c25a9d5928cf5a51730",
+    "pergunta": "O que prevê o artigo 8º das DCNEI sobre a introdução dos Valores Civilizatórios Afro-Brasileiros na rotina das instituições de ensino?"
+  },
+  {
+    "id": "e732506deeb84c25a9d5928cf5a51730",
+    "pergunta": "Como o projeto político-pedagógico (PPP) deve orientar a equipe para evitar o uso de apelidos depreciativos focados no fenótipo?"
+  },
+  {
+    "id": "e732506deeb84c25a9d5928cf5a51730",
+    "pergunta": "Quais dinâmicas de formação continuada podem ajudar a desfazer viéses inconscientes nas práticas de afeto entre educadores e crianças brancas e negras?"
+  },
+  {
+    "id": "5eeb96d51cb44461a9fbb9f0961e5d82",
+    "pergunta": "Um município pode lançar edital de concurso público exigindo apenas Ensino Médio regular (sem o curso Normal) para vagas em creche?"
+  },
+  {
+    "id": "5eeb96d51cb44461a9fbb9f0961e5d82",
+    "pergunta": "A licenciatura em letras ou matemática habilita um profissional a assumir a regência de turmas da educação infantil?"
+  },
+  {
+    "id": "5eeb96d51cb44461a9fbb9f0961e5d82",
+    "pergunta": "Como o Tribunal de Contas avalia a contratação de profissionais sem graduação em Pedagogia, mas com magistério de nível médio?"
+  },
+  {
+    "id": "5eeb96d51cb44461a9fbb9f0961e5d82",
+    "pergunta": "É possível enquadrar professores do curso Normal (nível médio) no mesmo plano de carreira dos licenciados em Pedagogia?"
+  },
+  {
+    "id": "5eeb96d51cb44461a9fbb9f0961e5d82",
+    "pergunta": "Qual a fundamentação legal que torna a licenciatura em Pedagogia o padrão superior esperado para a docência em creches e pré-escolas?"
+  },
+  {
+    "id": "bd54593e460844b99e72004d609b5d41",
+    "pergunta": "Candidatos aprovados em processo seletivo simplificado podem assumir turmas se estiverem no 7º semestre de Pedagogia sem ter o curso Normal?"
+  },
+  {
+    "id": "bd54593e460844b99e72004d609b5d41",
+    "pergunta": "A secretaria de educação incorre em improbidade administrativa se firmar contrato com graduando sem formação de nível médio em magistério?"
+  },
+  {
+    "id": "bd54593e460844b99e72004d609b5d41",
+    "pergunta": "Como o art. 62 da Lei nº 9.394/96 (LDB) inviabiliza as contratações emergenciais de universitários para suprir déficit de professores?"
+  },
+  {
+    "id": "bd54593e460844b99e72004d609b5d41",
+    "pergunta": "A direção escolar pode aceitar histórico acadêmico parcial de Pedagogia como documento substitutivo ao diploma do Normal para fins de estágio remunerado como titular?"
+  },
+  {
+    "id": "bd54593e460844b99e72004d609b5d41",
+    "pergunta": "O conselho tutelar pode intervir se constatar que a pré-escola está alocando universitários não habilitados sozinhos em sala de aula?"
+  },
+  {
+    "id": "540375a8b81c41a9ae2ffe66f7b07a56",
+    "pergunta": "Um candidato com diploma de Pedagogia será desclassificado do concurso se o edital for estritamente focado no nível médio modalidade Normal?"
+  },
+  {
+    "id": "540375a8b81c41a9ae2ffe66f7b07a56",
+    "pergunta": "O princípio da soberania do edital impede o aproveitamento de candidatos com titulação superior àquela solicitada na vaga?"
+  },
+  {
+    "id": "540375a8b81c41a9ae2ffe66f7b07a56",
+    "pergunta": "Como as procuradorias jurídicas dos municípios avaliam os mandados de segurança movidos por pedagogos barrados em concursos de nível médio?"
+  },
+  {
+    "id": "540375a8b81c41a9ae2ffe66f7b07a56",
+    "pergunta": "Se o professor tiver Pedagogia mas o seu ensino médio for técnico em contabilidade, ele atende aos requisitos documentais na hora da posse?"
+  },
+  {
+    "id": "540375a8b81c41a9ae2ffe66f7b07a56",
+    "pergunta": "É possível retificar o edital do concurso em andamento para incluir a graduação em Pedagogia como requisito equivalente ao Normal?"
+  },
+  {
+    "id": "6787c0996ec541e0adde73960ba23c44",
+    "pergunta": "Em caso de falta do professor titular, a escola comete infração ao deixar o estagiário sozinho conduzindo as atividades pedagógicas do dia?"
+  },
+  {
+    "id": "6787c0996ec541e0adde73960ba23c44",
+    "pergunta": "A inspeção escolar pode aplicar sanções se identificar estagiários figurando como regentes oficiais no diário de classe?"
+  },
+  {
+    "id": "6787c0996ec541e0adde73960ba23c44",
+    "pergunta": "Como deve ser formalizada a supervisão contínua do profissional habilitado sobre as tarefas desenvolvidas pelo estagiário em sala?"
+  },
+  {
+    "id": "6787c0996ec541e0adde73960ba23c44",
+    "pergunta": "A rede privada pode contratar estagiários para assumir a turma do período de repouso ou contra-turno na educação infantil?"
+  },
+  {
+    "id": "6787c0996ec541e0adde73960ba23c44",
+    "pergunta": "O que a legislação trabalhista e educacional estipula sobre os limites de atuação acadêmica e as responsabilidades do estagiário na creche?"
+  },
+  {
+    "id": "92a57fe8d0ab46a4ad7a3084c2fa36f2",
+    "pergunta": "Como a prefeitura deve agir juridicamente se o Ministério Público encontrar monitores exercendo ilegalmente a docência?"
+  },
+  {
+    "id": "92a57fe8d0ab46a4ad7a3084c2fa36f2",
+    "pergunta": "Há desvio de função quando a secretaria de educação aloca funcionários do quadro geral para aplicar o conteúdo programático às crianças?"
+  },
+  {
+    "id": "92a57fe8d0ab46a4ad7a3084c2fa36f2",
+    "pergunta": "Quais as diferenças contratuais e atribuições legais que separam os cargos de auxiliar de desenvolvimento infantil e o de professor?"
+  },
+  {
+    "id": "92a57fe8d0ab46a4ad7a3084c2fa36f2",
+    "pergunta": "Os auditores do TCE podem impugnar a folha de pagamento do Fundeb se auxiliares estiverem lotados irregularmente como regentes?"
+  },
+  {
+    "id": "92a57fe8d0ab46a4ad7a3084c2fa36f2",
+    "pergunta": "De que forma o plano de carreira do município deve estruturar os cargos de apoio para não se confundirem com o magistério da educação básica?"
+  },
+  {
+    "id": "0ae5c33639a44b72a5b2891941e8e9bf",
+    "pergunta": "A transposição de um servidor aprovado como 'monitor' para o cargo de 'professor', após concluir Pedagogia, fere a Súmula 685 do STF?"
+  },
+  {
+    "id": "0ae5c33639a44b72a5b2891941e8e9bf",
+    "pergunta": "Como o artigo 67, inciso I da LDB bloqueia o acesso à carreira do magistério público sem a realização de um novo concurso de provas e títulos?"
+  },
+  {
+    "id": "0ae5c33639a44b72a5b2891941e8e9bf",
+    "pergunta": "Um auxiliar concursado pode pleitear judicialmente a equiparação salarial caso tenha exercido a função de docente, mesmo sendo ilegal a efetivação?"
+  },
+  {
+    "id": "0ae5c33639a44b72a5b2891941e8e9bf",
+    "pergunta": "A integração de creches ao sistema de ensino impede que a prefeitura crie atalhos administrativos para ascensão funcional de servidores do apoio?"
+  },
+  {
+    "id": "0ae5c33639a44b72a5b2891941e8e9bf",
+    "pergunta": "O que caracteriza a inconstitucionalidade das leis municipais que tentam reenquadrar cuidadores infantis como professores estatutários?"
+  },
+  {
+    "id": "dfcc041c7dcc4333b09e8a1e1e0e37aa",
+    "pergunta": "As secretarias municipais de educação podem ser penalizadas caso não ofereçam jornadas de capacitação periódica aos seus professores?"
+  },
+  {
+    "id": "dfcc041c7dcc4333b09e8a1e1e0e37aa",
+    "pergunta": "De quem o conselho tutelar ou conselho de educação deve cobrar a ausência de atualização profissional nas escolas privadas?"
+  },
+  {
+    "id": "dfcc041c7dcc4333b09e8a1e1e0e37aa",
+    "pergunta": "Os mantenedores de instituições particulares podem repassar os custos da formação continuada obrigatória para as mensalidades das famílias?"
+  },
+  {
+    "id": "dfcc041c7dcc4333b09e8a1e1e0e37aa",
+    "pergunta": "O poder público deve incluir dotação orçamentária anual específica (como rubricas do Fundeb) para garantir treinamentos e palestras aos docentes?"
+  },
+  {
+    "id": "dfcc041c7dcc4333b09e8a1e1e0e37aa",
+    "pergunta": "Como a legislação divide as atribuições de capacitação entre os entes estatais no caso de creches conveniadas ou comunitárias?"
+  },
+  {
+    "id": "86bc6839ab8c472aa41dcd49065fbf41",
+    "pergunta": "Pela Lei de Diretrizes e Bases, um graduado em Administração pode assumir o cargo de supervisor educacional de uma pré-escola?"
+  },
+  {
+    "id": "86bc6839ab8c472aa41dcd49065fbf41",
+    "pergunta": "Quais especializações de pós-graduação são validadas pelo MEC para habilitar profissionais em inspeção e orientação pedagógica?"
+  },
+  {
+    "id": "86bc6839ab8c472aa41dcd49065fbf41",
+    "pergunta": "O conselho estadual de educação permite que psicólogos sem licenciatura ocupem formalmente o posto de coordenador pedagógico?"
+  },
+  {
+    "id": "86bc6839ab8c472aa41dcd49065fbf41",
+    "pergunta": "Como as instituições privadas de educação infantil devem preencher a documentação do Censo Escolar referentes à equipe gestora sem sofrer glosas?"
+  },
+  {
+    "id": "86bc6839ab8c472aa41dcd49065fbf41",
+    "pergunta": "A exigência do art. 64 da LDB impede que profissionais formados apenas no antigo curso Normal componham o corpo técnico-administrativo superior?"
+  },
+  {
+    "id": "f32556b987d74dadb86c1c1d2c7eed06",
+    "pergunta": "É exigência legal que toda creche particular apresente em sua proposta pedagógica o detalhamento do organograma (coordenação, docentes, limpeza)?"
+  },
+  {
+    "id": "f32556b987d74dadb86c1c1d2c7eed06",
+    "pergunta": "Como a ausência de uma coordenação pedagógica ou administrativa exclusiva pode afetar a renovação do alvará de funcionamento da unidade?"
+  },
+  {
+    "id": "f32556b987d74dadb86c1c1d2c7eed06",
+    "pergunta": "A prefeitura pode fazer contratações intersetoriais (cedendo dentistas ou assistentes sociais da Saúde) para compor o quadro de atendimento da creche?"
+  },
+  {
+    "id": "f32556b987d74dadb86c1c1d2c7eed06",
+    "pergunta": "Quais os limites para a secretaria de educação dividir os custos e contratos de servidores de cultura e esporte voltados ao atendimento integral?"
+  },
+  {
+    "id": "f32556b987d74dadb86c1c1d2c7eed06",
+    "pergunta": "Como adequar a proporção estatutária de professores e funcionários de apoio com base nas metas e estrutura descritas no regimento escolar?"
+  }
+]

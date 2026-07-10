@@ -1,0 +1,742 @@
+[
+  {
+    "id": "ce3dfc4e9c8a4669b5b923d6f76a53ce",
+    "pergunta": "O dirigente municipal pode nomear diretamente o coordenador para atuar como bolsista da Pneerq na sua rede?"
+  },
+  {
+    "id": "ce3dfc4e9c8a4669b5b923d6f76a53ce",
+    "pergunta": "Qual o papel da secretaria estadual no acordo para a designação dos articuladores de formação?"
+  },
+  {
+    "id": "ce3dfc4e9c8a4669b5b923d6f76a53ce",
+    "pergunta": "Quais são os perfis ou critérios técnicos esperados para os agentes de governança regional nas UFs?"
+  },
+  {
+    "id": "ce3dfc4e9c8a4669b5b923d6f76a53ce",
+    "pergunta": "Existe um processo seletivo unificado no MEC ou a escolha dos bolsistas é de autonomia total das secretarias locais?"
+  },
+  {
+    "id": "ce3dfc4e9c8a4669b5b923d6f76a53ce",
+    "pergunta": "Como as secretarias devem formalizar o 'comum acordo' exigido para indicar o agente de governança local?"
+  },
+  {
+    "id": "307f4c0e138b466b8c68df36081ca3d9",
+    "pergunta": "Um professor com contrato via Processo Seletivo Simplificado (PSS) pode pleitear a bolsa de articulador?"
+  },
+  {
+    "id": "307f4c0e138b466b8c68df36081ca3d9",
+    "pergunta": "O que a gestão deve fazer se não houver professores efetivos disponíveis para assumir a coordenação do programa?"
+  },
+  {
+    "id": "307f4c0e138b466b8c68df36081ca3d9",
+    "pergunta": "Como a Lei nº 11.273/2006 bloqueia a indicação de servidores com vínculos precários nas secretarias municipais?"
+  },
+  {
+    "id": "307f4c0e138b466b8c68df36081ca3d9",
+    "pergunta": "Profissionais efetivos que estão em estágio probatório se qualificam para assumir vagas de agentes de governança?"
+  },
+  {
+    "id": "307f4c0e138b466b8c68df36081ca3d9",
+    "pergunta": "É possível ceder um servidor efetivo do estado para atuar na cota de bolsistas do município?"
+  },
+  {
+    "id": "45f0d5237de141b0ad964511c1c09394",
+    "pergunta": "A bolsa de R$ 1.200 repassada pelo FNDE sofre algum desconto de Imposto de Renda ou contribuição previdenciária?"
+  },
+  {
+    "id": "45f0d5237de141b0ad964511c1c09394",
+    "pergunta": "Existe diferença remuneratória entre as funções de coordenador geral e a de agente de governança local?"
+  },
+  {
+    "id": "45f0d5237de141b0ad964511c1c09394",
+    "pergunta": "O município pode usar recursos próprios para complementar o valor pago aos articuladores de formação?"
+  },
+  {
+    "id": "45f0d5237de141b0ad964511c1c09394",
+    "pergunta": "Como o FNDE estrutura os pagamentos mensais (há exigência de relatórios de atividades para liberação)?"
+  },
+  {
+    "id": "45f0d5237de141b0ad964511c1c09394",
+    "pergunta": "A Portaria MEC nº 470/2024 prevê reajustes inflacionários anuais para esse valor de R$ 1.200?"
+  },
+  {
+    "id": "71933b3e48b84b0ea85c533c8d4eaba0",
+    "pergunta": "O sistema do FNDE bloqueia automaticamente a emissão da bolsa se o servidor já for beneficiário da Capes?"
+  },
+  {
+    "id": "71933b3e48b84b0ea85c533c8d4eaba0",
+    "pergunta": "O professor precisará abrir mão da sua bolsa de mestrado/doutorado para atuar como articulador da Pneerq?"
+  },
+  {
+    "id": "71933b3e48b84b0ea85c533c8d4eaba0",
+    "pergunta": "Bolsas de fomento à pesquisa emitidas por fundações estaduais entram na regra de acúmulo proibido?"
+  },
+  {
+    "id": "71933b3e48b84b0ea85c533c8d4eaba0",
+    "pergunta": "Como o setor de RH deve orientar os candidatos sobre a conformidade com as normativas de não acumulação?"
+  },
+  {
+    "id": "71933b3e48b84b0ea85c533c8d4eaba0",
+    "pergunta": "Existe alguma brecha jurídica que permita acumular a bolsa Pneerq com outra tutoria financiada pelo próprio MEC?"
+  },
+  {
+    "id": "95c5b4c5e0464d61b17cabd233b8b311",
+    "pergunta": "Quais ferramentas práticas a ação focalizada oferece para as escolas alavancarem a Educação Escolar Quilombola?"
+  },
+  {
+    "id": "95c5b4c5e0464d61b17cabd233b8b311",
+    "pergunta": "De que forma as secretarias podem solicitar a inclusão de novas unidades escolares nos pacotes de ajuda da ação focalizada?"
+  },
+  {
+    "id": "95c5b4c5e0464d61b17cabd233b8b311",
+    "pergunta": "Quais são as diferenças de abordagem metodológica entre a política universal da Pneerq e essa ação focalizada?"
+  },
+  {
+    "id": "95c5b4c5e0464d61b17cabd233b8b311",
+    "pergunta": "Como os gestores medem e prestam contas da redução das desigualdades raciais alcançada com este apoio extra?"
+  },
+  {
+    "id": "95c5b4c5e0464d61b17cabd233b8b311",
+    "pergunta": "O foco nas relações étnico-raciais exige a reformulação imediata dos Planos Políticos Pedagógicos das escolas apoiadas?"
+  },
+  {
+    "id": "6026758f4add4ebd8622a2491ac5a1b6",
+    "pergunta": "A parcela do PDDE Quilombola pode ser aplicada em reformas físicas da escola para acessibilidade?"
+  },
+  {
+    "id": "6026758f4add4ebd8622a2491ac5a1b6",
+    "pergunta": "Como o MEC calcula a variação do repasse entre R$ 1.850 e R$ 3.700 com base no censo dos alunos negros matriculados?"
+  },
+  {
+    "id": "6026758f4add4ebd8622a2491ac5a1b6",
+    "pergunta": "Quais bases de dados alimentaram a avaliação da 'alta taxa de viabilidade de mudança' dos 773 municípios selecionados?"
+  },
+  {
+    "id": "6026758f4add4ebd8622a2491ac5a1b6",
+    "pergunta": "O bolsista extra (agente de governança local) deve atuar exclusivamente na escola que recebeu o apoio do PDDE?"
+  },
+  {
+    "id": "6026758f4add4ebd8622a2491ac5a1b6",
+    "pergunta": "É possível recorrer administrativamente caso uma escola com grande contingente de estudantes pardos tenha ficado de fora da lista?"
+  },
+  {
+    "id": "5292b7aa2db84f188deb17c411dc9fff",
+    "pergunta": "O agente regional tem autoridade para alterar as metas de ERER formuladas pelo município?"
+  },
+  {
+    "id": "5292b7aa2db84f188deb17c411dc9fff",
+    "pergunta": "Como o trabalho descentralizado e colaborativo é formalizado nas reuniões entre as redes e a SECADI/DIPERQ?"
+  },
+  {
+    "id": "5292b7aa2db84f188deb17c411dc9fff",
+    "pergunta": "Quais estratégias os agentes devem adotar para mobilizar as comunidades escolares que apresentam resistência ao debate étnico-racial?"
+  },
+  {
+    "id": "5292b7aa2db84f188deb17c411dc9fff",
+    "pergunta": "É dever do agente local preencher os formulários de prestação de contas financeiras dos recursos aplicados nas escolas?"
+  },
+  {
+    "id": "5292b7aa2db84f188deb17c411dc9fff",
+    "pergunta": "Caso as diretrizes da Pneerq não sejam atingidas no prazo, os agentes perdem o direito de renovar a bolsa?"
+  },
+  {
+    "id": "a2d79046f524487198cd3b63159605e5",
+    "pergunta": "Onde os diretores podem consultar o detalhamento da lista oficial dos estados contemplados pela ação focalizada?"
+  },
+  {
+    "id": "a2d79046f524487198cd3b63159605e5",
+    "pergunta": "Haverá um cronograma para inclusão de novos municípios em editais futuros ou a lista é definitiva para este ciclo?"
+  },
+  {
+    "id": "a2d79046f524487198cd3b63159605e5",
+    "pergunta": "Como a secretaria estadual deve proceder se municípios do seu território foram selecionados, mas se recusam a participar?"
+  },
+  {
+    "id": "a2d79046f524487198cd3b63159605e5",
+    "pergunta": "As redes municipais da lista serão notificadas oficialmente via ofício pelo MEC sobre as próximas etapas de cadastro?"
+  },
+  {
+    "id": "a2d79046f524487198cd3b63159605e5",
+    "pergunta": "O ingresso na ação focalizada é automático para os selecionados ou exige a assinatura de algum termo de compromisso regional?"
+  },
+  {
+    "id": "8bbdd8c645d945a7bd7436e3a8afbe6c",
+    "pergunta": "A seção de proficiência (matemática e português) dos painéis utiliza exclusivamente os dados fornecidos pelo Saeb?"
+  },
+  {
+    "id": "8bbdd8c645d945a7bd7436e3a8afbe6c",
+    "pergunta": "Como os coordenadores pedagógicos podem cruzar as características de infraestrutura escolar com a vulnerabilidade social?"
+  },
+  {
+    "id": "8bbdd8c645d945a7bd7436e3a8afbe6c",
+    "pergunta": "Os dados de matrículas quilombolas presentes na plataforma são atualizados em tempo real ou seguem a divulgação do Censo Escolar anual?"
+  },
+  {
+    "id": "8bbdd8c645d945a7bd7436e3a8afbe6c",
+    "pergunta": "O painel permite gerar comparativos detalhados de desempenho entre escolas brancas e escolas com maioria de alunos negros?"
+  },
+  {
+    "id": "8bbdd8c645d945a7bd7436e3a8afbe6c",
+    "pergunta": "Pais de alunos e a sociedade civil podem acessar abertamente a plataforma para fiscalizar as metas da Pneerq no município?"
+  },
+  {
+    "id": "1000da78f98a4f8ab82d2e120723bb0e",
+    "pergunta": "A navegação nos gráficos e indicadores interativos requer instalação de softwares específicos ou funciona em qualquer navegador?"
+  },
+  {
+    "id": "1000da78f98a4f8ab82d2e120723bb0e",
+    "pergunta": "Como exportar as planilhas cruzadas por raça/cor para anexar nos relatórios de gestão da secretaria municipal?"
+  },
+  {
+    "id": "1000da78f98a4f8ab82d2e120723bb0e",
+    "pergunta": "Existe algum tutorial disponibilizado pela política de equidade para capacitar os diretores no uso desses painéis?"
+  },
+  {
+    "id": "1000da78f98a4f8ab82d2e120723bb0e",
+    "pergunta": "Os gestores conseguem aplicar filtros regionais para analisar o desempenho escolar apenas do entorno de uma comunidade quilombola específica?"
+  },
+  {
+    "id": "1000da78f98a4f8ab82d2e120723bb0e",
+    "pergunta": "O sistema permite salvar as visualizações personalizadas para acompanhamento periódico do mesmo indicador ao longo dos meses?"
+  },
+  {
+    "id": "b7b1f38c56084db2b0020a5cf2bc559a",
+    "pergunta": "Dúvidas técnicas sobre o repasse das bolsas do FNDE devem ser encaminhadas para este e-mail institucional?"
+  },
+  {
+    "id": "b7b1f38c56084db2b0020a5cf2bc559a",
+    "pergunta": "Qual é o tempo médio de devolutiva para ofícios enviados por secretarias estaduais através do pneerq@mec.gov.br?"
+  },
+  {
+    "id": "b7b1f38c56084db2b0020a5cf2bc559a",
+    "pergunta": "Os agentes locais devem enviar seus planos de ação e relatórios periódicos diretamente para essa caixa de entrada?"
+  },
+  {
+    "id": "b7b1f38c56084db2b0020a5cf2bc559a",
+    "pergunta": "Representantes de comunidades quilombolas podem usar este canal para solicitar a averiguação de escolas não mapeadas pelo programa?"
+  },
+  {
+    "id": "b7b1f38c56084db2b0020a5cf2bc559a",
+    "pergunta": "Problemas de login no painel de monitoramento devem ser reportados aqui ou ao suporte geral de TI do MEC?"
+  },
+  {
+    "id": "3b229a62e66940ababce03de155739f3",
+    "pergunta": "Os repasses financeiros atrelados ao Pacto podem ser utilizados na contratação de consultorias privadas para reformular o currículo escolar?"
+  },
+  {
+    "id": "3b229a62e66940ababce03de155739f3",
+    "pergunta": "Os referenciais de reorganização curricular são impostos como normativas ou funcionam como guias adaptáveis aos contextos locais?"
+  },
+  {
+    "id": "3b229a62e66940ababce03de155739f3",
+    "pergunta": "Como as secretarias de educação deverão comprovar a eficácia da implementação das estratégias para não perderem o apoio técnico?"
+  },
+  {
+    "id": "3b229a62e66940ababce03de155739f3",
+    "pergunta": "A formação continuada engloba também os profissionais administrativos da escola ou é voltada estritamente aos docentes e diretores?"
+  },
+  {
+    "id": "3b229a62e66940ababce03de155739f3",
+    "pergunta": "Que tipo de métricas os relatórios do MEC utilizarão para avaliar se as metas de recomposição das aprendizagens foram alcançadas?"
+  },
+  {
+    "id": "14a338b0adc64130aef930458b4d0c0c",
+    "pergunta": "Como o princípio da equidade deve balizar a distribuição de recursos entre as escolas da zona rural e da região central da cidade?"
+  },
+  {
+    "id": "14a338b0adc64130aef930458b4d0c0c",
+    "pergunta": "A diretriz de formação integral obriga os municípios participantes a migrarem suas turmas de contraturno para o regime de tempo integral pleno?"
+  },
+  {
+    "id": "14a338b0adc64130aef930458b4d0c0c",
+    "pergunta": "Como o MEC garante que a autonomia municipal seja respeitada na escolha e adaptação dos materiais distribuídos pelo Pacto?"
+  },
+  {
+    "id": "14a338b0adc64130aef930458b4d0c0c",
+    "pergunta": "Se um estado decidir sair da colaboração voluntária, as prefeituras paulistas/baianas/etc. sofrem sanções automáticas?"
+  },
+  {
+    "id": "14a338b0adc64130aef930458b4d0c0c",
+    "pergunta": "Quais indicadores de redução de desigualdade social a prefeitura deve apresentar para justificar suas ações no escopo da política?"
+  },
+  {
+    "id": "6978b9c03f2c4a509f2c7d64da4bcf86",
+    "pergunta": "É necessário criar uma comissão específica ou secretaria-adjunta para estruturar os processos de gestão educacional exigidos?"
+  },
+  {
+    "id": "6978b9c03f2c4a509f2c7d64da4bcf86",
+    "pergunta": "Se o município enfrentar contingenciamento orçamentário, ele será penalizado por reduzir a oferta da formação continuada pactuada?"
+  },
+  {
+    "id": "6978b9c03f2c4a509f2c7d64da4bcf86",
+    "pergunta": "Quais os prazos previstos para a logística de recebimento e distribuição dos materiais de apoio destinados aos alunos da zona rural?"
+  },
+  {
+    "id": "6978b9c03f2c4a509f2c7d64da4bcf86",
+    "pergunta": "Os dados de frequência e abandono escolar devem ser integrados e enviados ao MEC em tempo real ou através de lotes mensais?"
+  },
+  {
+    "id": "6978b9c03f2c4a509f2c7d64da4bcf86",
+    "pergunta": "As informações compartilhadas para monitoramento exigem plataformas tecnológicas de ponta ou o Inep proverá formulários básicos?"
+  },
+  {
+    "id": "477eafc9b17544d28990458e711315ba",
+    "pergunta": "As avaliações de diagnóstico contínuo serão fornecidas em formato padronizado pelo Inep ou construídas pela coordenação municipal?"
+  },
+  {
+    "id": "477eafc9b17544d28990458e711315ba",
+    "pergunta": "Como as escolas devem registrar as estratégias de mediação pedagógica adotadas nos diários de classe para comprovar a intervenção?"
+  },
+  {
+    "id": "477eafc9b17544d28990458e711315ba",
+    "pergunta": "A capacitação contínua para os professores será contabilizada dentro da carga horária de Trabalho Pedagógico (HTPC) obrigatória?"
+  },
+  {
+    "id": "477eafc9b17544d28990458e711315ba",
+    "pergunta": "Os materiais pedagógicos acessíveis abrangem impressão de provas ampliadas e cadernos em braille financiados pelo Pacto?"
+  },
+  {
+    "id": "477eafc9b17544d28990458e711315ba",
+    "pergunta": "Qual a periodicidade (anual, semestral, bimestral) sugerida para aplicação dos ciclos formativos no eixo de Avaliação?"
+  },
+  {
+    "id": "d19e6ca5cd3642988fca018acd4802df",
+    "pergunta": "Se um estado não aderir ao Pacto pelo Decreto nº 12.391/2025, os municípios desse estado podem ter seus repasses retidos?"
+  },
+  {
+    "id": "d19e6ca5cd3642988fca018acd4802df",
+    "pergunta": "Quais perfis de usuário, além do Secretário, têm permissão de visualizar a aba 'Adesão' dentro do módulo COGEB no Simec?"
+  },
+  {
+    "id": "d19e6ca5cd3642988fca018acd4802df",
+    "pergunta": "A adesão voluntária exige que o município aprove uma lei específica na câmara dos vereadores, ou apenas um decreto do executivo basta?"
+  },
+  {
+    "id": "d19e6ca5cd3642988fca018acd4802df",
+    "pergunta": "O sistema SIMEC gera um certificado digital ou comprovante que deve ser anexado aos arquivos da prestação de contas do município?"
+  },
+  {
+    "id": "d19e6ca5cd3642988fca018acd4802df",
+    "pergunta": "A prefeitura perde o direito aos materiais didáticos gratuitos caso não preencha o termo no sistema integrado no prazo correto?"
+  },
+  {
+    "id": "badbb1d6f48545b297ee9ef1c7f89671",
+    "pergunta": "O prefeito pode assinar a adesão no sistema caso o Secretário de Educação esteja de licença ou ainda não tenha acesso ao Simec?"
+  },
+  {
+    "id": "badbb1d6f48545b297ee9ef1c7f89671",
+    "pergunta": "É possível delegar a formalização da política ao Subsecretário de Gestão Pedagógica por meio de uma portaria municipal?"
+  },
+  {
+    "id": "badbb1d6f48545b297ee9ef1c7f89671",
+    "pergunta": "Como atualizar o CPF vinculado ao perfil de secretário se houver mudança de gestão durante a janela de inscrições?"
+  },
+  {
+    "id": "badbb1d6f48545b297ee9ef1c7f89671",
+    "pergunta": "A assinatura requer autenticação avançada, como o uso de token (certificado e-CPF A3), ou o login simples no portal Gov.br?"
+  },
+  {
+    "id": "badbb1d6f48545b297ee9ef1c7f89671",
+    "pergunta": "Se ocorrer um erro de privilégio de acesso ao módulo COGEB, qual canal o dirigente municipal deve acionar para regularização imediata?"
+  },
+  {
+    "id": "9fb8f4ff80a6497ab3192c4a1245e19a",
+    "pergunta": "Haverá prazo prorrogado para secretarias que enfrentarem instabilidade de conexão no sistema na semana do dia 19 de setembro de 2025?"
+  },
+  {
+    "id": "9fb8f4ff80a6497ab3192c4a1245e19a",
+    "pergunta": "A janela de adesão é única para todo o mandato ou será aberta anualmente para novos entes federativos participarem do Pacto?"
+  },
+  {
+    "id": "9fb8f4ff80a6497ab3192c4a1245e19a",
+    "pergunta": "Municípios que confirmarem a adesão logo em 18 de agosto terão prioridade na fila de distribuição de assistência financeira?"
+  },
+  {
+    "id": "9fb8f4ff80a6497ab3192c4a1245e19a",
+    "pergunta": "As redes municipais correm risco de glosa orçamentária no Fundeb caso percam o período definido pelo Ministério da Educação?"
+  },
+  {
+    "id": "9fb8f4ff80a6497ab3192c4a1245e19a",
+    "pergunta": "Como a equipe técnica deve comprovar ao Tribunal de Contas que tentou efetuar a inscrição no prazo mas foi impedida por erro no Simec?"
+  },
+  {
+    "id": "4bade84900ef4b37aeecc16d970f66ec",
+    "pergunta": "Se a Secretaria de Estado da Educação optar por não aderir, as cidades daquele estado perdem o acesso à plataforma do Ministério?"
+  },
+  {
+    "id": "4bade84900ef4b37aeecc16d970f66ec",
+    "pergunta": "O montante do repasse é maior para municípios que formatarem consórcios de adesão regional junto às coordenadorias estaduais?"
+  },
+  {
+    "id": "4bade84900ef4b37aeecc16d970f66ec",
+    "pergunta": "Como garantir a coerência das práticas pedagógicas se a rede estadual e a municipal utilizarem guias metodológicos divergentes no território?"
+  },
+  {
+    "id": "4bade84900ef4b37aeecc16d970f66ec",
+    "pergunta": "O Ministério da Educação exige algum fórum de diálogo formal, registrado em ata, entre prefeito e governador para a recomposição das aprendizagens?"
+  },
+  {
+    "id": "4bade84900ef4b37aeecc16d970f66ec",
+    "pergunta": "Existe o risco de sobreposição de avaliações diagnósticas para o aluno se as redes atuarem de forma autônoma sem articulação?"
+  },
+  {
+    "id": "a4dd2bcef6064c38837d57e44248d2bd",
+    "pergunta": "Como as secretarias deverão capacitar seus gestores para lidar com a resposta educacional a calamidades climáticas sem verba específica da Defesa Civil?"
+  },
+  {
+    "id": "a4dd2bcef6064c38837d57e44248d2bd",
+    "pergunta": "O município será penalizado financeiramente se não entregar a tempo o compartilhamento das informações exigidas para monitoramento?"
+  },
+  {
+    "id": "a4dd2bcef6064c38837d57e44248d2bd",
+    "pergunta": "As avaliações diagnósticas devem cobrir obrigatoriamente Artes e Educação Física, ou apenas as defasagens de disciplinas nucleares?"
+  },
+  {
+    "id": "a4dd2bcef6064c38837d57e44248d2bd",
+    "pergunta": "Qual o padrão de materiais suplementares aceito pelo MEC para atestar que o município cumpriu com o fornecimento às escolas?"
+  },
+  {
+    "id": "a4dd2bcef6064c38837d57e44248d2bd",
+    "pergunta": "A estruturação de práticas pedagógicas precisará ser oficializada por portaria municipal ou apenas apresentada no relatório final?"
+  },
+  {
+    "id": "629ce8c066c249e98952990762aaa4d4",
+    "pergunta": "O secretário precisará fazer upload do Plano de Ação Preliminar na aba de adesão do Simec no ato do preenchimento?"
+  },
+  {
+    "id": "629ce8c066c249e98952990762aaa4d4",
+    "pergunta": "Como registrar formalmente a análise das condições da rede para uso futuro em caso de diligências técnicas do Ministério da Educação?"
+  },
+  {
+    "id": "629ce8c066c249e98952990762aaa4d4",
+    "pergunta": "Quais equipes da secretaria (planejamento, pedagógico, financeiro) são imprescindíveis na reunião preparatória antes do aceite no sistema?"
+  },
+  {
+    "id": "629ce8c066c249e98952990762aaa4d4",
+    "pergunta": "A Matriz Curricular Priorizada enviada pelo MEC deve ser aprovada pelo Conselho Municipal de Educação antes de a prefeitura assinar o Pacto?"
+  },
+  {
+    "id": "629ce8c066c249e98952990762aaa4d4",
+    "pergunta": "Se o responsável técnico habilitado entrar de férias em setembro, é possível alterar o encarregado no módulo COGEB sem atrasar o calendário?"
+  },
+  {
+    "id": "d7b6d4eb44de4cc5a43af9859313b07d",
+    "pergunta": "O ente federativo que já possui convênio ativo com o PAR (Plano de Ações Articuladas) é dispensado do pré-requisito de adesão no Pacto?"
+  },
+  {
+    "id": "d7b6d4eb44de4cc5a43af9859313b07d",
+    "pergunta": "A verba financeira para infraestrutura escolar liberada por este decreto exige abertura de conta específica no Banco do Brasil?"
+  },
+  {
+    "id": "d7b6d4eb44de4cc5a43af9859313b07d",
+    "pergunta": "O município pode escolher receber apenas o suporte tecnológico da Plataforma de Avaliação sem aceitar os materiais didáticos físicos?"
+  },
+  {
+    "id": "d7b6d4eb44de4cc5a43af9859313b07d",
+    "pergunta": "As secretarias correm risco de suspensão de emendas parlamentares voltadas à educação se não aderirem formalmente à política?"
+  },
+  {
+    "id": "d7b6d4eb44de4cc5a43af9859313b07d",
+    "pergunta": "Professores temporários e auxiliares de sala terão o mesmo direito de participar das formações continuadas financiadas pela União?"
+  },
+  {
+    "id": "e289ebe58b7c406f9b899125c3928e15",
+    "pergunta": "Se o estado já tem um currículo próprio alinhado à BNCC, ele deve substituí-lo pelos eixos estruturantes do Pacto para não perder verbas?"
+  },
+  {
+    "id": "e289ebe58b7c406f9b899125c3928e15",
+    "pergunta": "A prefeitura pode utilizar os recursos do Governo Federal para imprimir cartilhas de um programa de alfabetização já desenhado pelo município?"
+  },
+  {
+    "id": "e289ebe58b7c406f9b899125c3928e15",
+    "pergunta": "Como a prestação de contas deve separar o dinheiro do Pacto Nacional dos orçamentos locais investidos no mesmo projeto de recomposição?"
+  },
+  {
+    "id": "e289ebe58b7c406f9b899125c3928e15",
+    "pergunta": "As iniciativas da rede de ensino perdem validade legal se conflitarem pontualmente com as orientações pedagógicas dos guias do MEC?"
+  },
+  {
+    "id": "e289ebe58b7c406f9b899125c3928e15",
+    "pergunta": "Como alinhar sistemas estaduais de formação em serviço com as capacitações oferecidas pela plataforma nacional, evitando sobrecarga dos professores?"
+  },
+  {
+    "id": "3c9b74d81fd9475cafa95f17e33828ee",
+    "pergunta": "O município será desclassificado do repasse extra se optar por contratar um sistema privado de avaliação escolar via licitação?"
+  },
+  {
+    "id": "3c9b74d81fd9475cafa95f17e33828ee",
+    "pergunta": "Se a rede utilizar solução própria, ela precisará desenvolver uma API para enviar as notas ao banco de dados do MEC e do Inep?"
+  },
+  {
+    "id": "3c9b74d81fd9475cafa95f17e33828ee",
+    "pergunta": "A Plataforma de Avaliação e Acompanhamento do governo federal exige equipamentos específicos, como tablets e conectividade de alta velocidade, para os alunos?"
+  },
+  {
+    "id": "3c9b74d81fd9475cafa95f17e33828ee",
+    "pergunta": "Quais são as diretrizes técnicas obrigatórias que a avaliação própria do município deve cobrir para ser validada pelo Pacto?"
+  },
+  {
+    "id": "3c9b74d81fd9475cafa95f17e33828ee",
+    "pergunta": "É possível mesclar as soluções: aplicar a Plataforma nacional nas provas diagnósticas, mas manter um sistema local para as avaliações formativas?"
+  },
+  {
+    "id": "2198bdbbf60c4d2da3138d795bb139cd",
+    "pergunta": "O município pode usar recursos de custeio transferidos pelo Pacto para pagar convênios do Terceiro Setor (Organizações Sociais) focados em reforço?"
+  },
+  {
+    "id": "2198bdbbf60c4d2da3138d795bb139cd",
+    "pergunta": "Há necessidade de autorização prévia do FNDE para publicar editais de chamamento público pautados na Lei nº 13.019/2014?"
+  },
+  {
+    "id": "2198bdbbf60c4d2da3138d795bb139cd",
+    "pergunta": "Como a legislação federal regula a contratação direta de fundações universitárias privadas para aplicar o eixo de Formação Docente do Pacto?"
+  },
+  {
+    "id": "2198bdbbf60c4d2da3138d795bb139cd",
+    "pergunta": "Os termos de fomento firmados com entidades filantrópicas eximem a prefeitura de apresentar os relatórios periódicos de monitoramento?"
+  },
+  {
+    "id": "2198bdbbf60c4d2da3138d795bb139cd",
+    "pergunta": "As organizações parceiras estão obrigadas a utilizar os referenciais de mediação pedagógica elaborados pelo MEC nos seus trabalhos de campo?"
+  },
+  {
+    "id": "de1c69a77f1848c39c168c47ea8cbcac",
+    "pergunta": "Como a secretaria demonstra documentalmente a prioridade por vulnerabilidade de defasagem (Ideb, Ideges) para acelerar o pleito de financiamento?"
+  },
+  {
+    "id": "de1c69a77f1848c39c168c47ea8cbcac",
+    "pergunta": "O MEC utilizará apenas o censo das matrizes do ano vigente ou considerará o histórico das desigualdades de gênero nas aprovações anuais?"
+  },
+  {
+    "id": "de1c69a77f1848c39c168c47ea8cbcac",
+    "pergunta": "Redes com indicadores altos de aprendizado ficam permanentemente bloqueadas de acessar a assistência financeira voltada à infraestrutura?"
+  },
+  {
+    "id": "de1c69a77f1848c39c168c47ea8cbcac",
+    "pergunta": "A composição étnico-racial aferida pelo Inep entra como critério de desempate para a destinação do apoio técnico aos municípios menores?"
+  },
+  {
+    "id": "de1c69a77f1848c39c168c47ea8cbcac",
+    "pergunta": "Existe um valor per capita pré-definido pelo programa que será transferido proporcionalmente ao volume de estudantes abaixo do nível adequado?"
+  },
+  {
+    "id": "efb2ab7314eb4c59acdc9309b3d3e4c8",
+    "pergunta": "O tribunal de contas questionará se a prefeitura aprovar um bônus pecuniário de resultados atrelado à evolução da recomposição escolar?"
+  },
+  {
+    "id": "efb2ab7314eb4c59acdc9309b3d3e4c8",
+    "pergunta": "O tempo dedicado à participação nas capacitações federais deve ser descontado da carga letiva ou remunerado como hora-extra pelo município?"
+  },
+  {
+    "id": "efb2ab7314eb4c59acdc9309b3d3e4c8",
+    "pergunta": "Como o plano de carreira local pode incorporar a certificação emitida nos materiais de apoio técnico para promoção por titulação?"
+  },
+  {
+    "id": "efb2ab7314eb4c59acdc9309b3d3e4c8",
+    "pergunta": "Prefeituras que pagarem incentivos financeiros próprios terão seus repasses do Pacto deduzidos para compensar o custeio federal?"
+  },
+  {
+    "id": "efb2ab7314eb4c59acdc9309b3d3e4c8",
+    "pergunta": "As formações contínuas ofertadas pelo MEC conferem pontos institucionais ou créditos acadêmicos para progressão em mestrados profissionais?"
+  },
+  {
+    "id": "70e7e5e2a2464d6b9c4ffb1040412703",
+    "pergunta": "O Ministério da Educação disponibilizará um formato de referência estruturado ou template em Excel para o Plano de Ação das prefeituras?"
+  },
+  {
+    "id": "70e7e5e2a2464d6b9c4ffb1040412703",
+    "pergunta": "As secretarias podem ser penalizadas com o corte da verba do FNDE se não entregarem o relatório de acompanhamento dos resultados no prazo?"
+  },
+  {
+    "id": "70e7e5e2a2464d6b9c4ffb1040412703",
+    "pergunta": "O mecanismo de avaliação dos impactos precisará passar pelo crivo dos conselheiros tutelares da região antes do envio à Brasília?"
+  },
+  {
+    "id": "70e7e5e2a2464d6b9c4ffb1040412703",
+    "pergunta": "Qual é a periodicidade exata (mensal, semestral, no final do ciclo) estipulada para a postagem dos dados gerados por outras soluções próprias?"
+  },
+  {
+    "id": "70e7e5e2a2464d6b9c4ffb1040412703",
+    "pergunta": "Se o Plano de Ação sofrer alterações no cronograma devido a greves na rede municipal, como as metas devem ser reprogramadas no sistema federal?"
+  },
+  {
+    "id": "5973c2b653054a20816efa77dc395b5e",
+    "pergunta": "A prestação de contas no Simec será feita em módulo separado ou integrada automaticamente pela Plataforma de Avaliação da rede?"
+  },
+  {
+    "id": "5973c2b653054a20816efa77dc395b5e",
+    "pergunta": "O Secretário de Educação precisa designar um servidor exclusivo em portaria para abastecer os instrumentos integrados do Ministério?"
+  },
+  {
+    "id": "5973c2b653054a20816efa77dc395b5e",
+    "pergunta": "Quais normas complementares orientarão as auditorias cruzadas nos relatórios periódicos da secretaria distrital e o orçamento investido?"
+  },
+  {
+    "id": "5973c2b653054a20816efa77dc395b5e",
+    "pergunta": "Como a gestão assegura a privacidade (LGPD) dos alunos de baixo desempenho caso os relatórios do Simec sofram consultas públicas abertas?"
+  },
+  {
+    "id": "5973c2b653054a20816efa77dc395b5e",
+    "pergunta": "Os estados devem consolidar os dados das prefeituras ou o MEC acessará diretamente as informações preenchidas por cada ente no pacto?"
+  },
+  {
+    "id": "622798ee9ef74e9f94e4decdb59c9f91",
+    "pergunta": "A Plataforma de Avaliação permite personalizar as questões diagnósticas conforme as características culturais e rurais da comunidade?"
+  },
+  {
+    "id": "622798ee9ef74e9f94e4decdb59c9f91",
+    "pergunta": "O programa fornecerá recursos impressos (provas em papel) para escolas onde não há disponibilidade de laboratórios de informática?"
+  },
+  {
+    "id": "622798ee9ef74e9f94e4decdb59c9f91",
+    "pergunta": "Como o município cadastra a rede para que o acompanhamento das ferramentas seja sincronizado automaticamente com o calendário escolar?"
+  },
+  {
+    "id": "622798ee9ef74e9f94e4decdb59c9f91",
+    "pergunta": "Se uma escola aderir na metade do semestre, ela poderá recuperar os exames diagnósticos atrasados exigidos no relatório de monitoramento?"
+  },
+  {
+    "id": "622798ee9ef74e9f94e4decdb59c9f91",
+    "pergunta": "Quais perfis na escola (professor titular vs coordenador) terão acesso para alimentar os dados nas ferramentas do Ministério?"
+  },
+  {
+    "id": "875aa513e5904237a350282c55072b6e",
+    "pergunta": "A publicação dos resultados consolidados trará rankings comparativos entre prefeituras da mesma região administrativa do estado?"
+  },
+  {
+    "id": "875aa513e5904237a350282c55072b6e",
+    "pergunta": "As secretarias municipais terão direito a retificar inconsistências nos dados antes que os relatórios periódicos do MEC sejam publicados na mídia?"
+  },
+  {
+    "id": "875aa513e5904237a350282c55072b6e",
+    "pergunta": "Como a sociedade civil, como ONGs e movimentos comunitários, poderá interpelar a prefeitura usando essas informações oficiais do Ministério?"
+  },
+  {
+    "id": "875aa513e5904237a350282c55072b6e",
+    "pergunta": "O detalhamento de implementação considerará o corte por dependência administrativa (escolas estaduais versus municipais) em seus resumos executivos?"
+  },
+  {
+    "id": "875aa513e5904237a350282c55072b6e",
+    "pergunta": "O atraso na entrega das métricas de monitoramento por parte da rede local impedirá a inclusão do ente federativo na edição do relatório nacional?"
+  },
+  {
+    "id": "7eb915611b5c4d60905517c3c500aa5a",
+    "pergunta": "Estagiários e professores eventuais/substitutos terão acesso às plataformas online de capacitação da recomposição?"
+  },
+  {
+    "id": "7eb915611b5c4d60905517c3c500aa5a",
+    "pergunta": "O Pacto prevê módulos formativos específicos para equipes financeiras das secretarias, ensinando como empenhar os recursos de custeio adequadamente?"
+  },
+  {
+    "id": "7eb915611b5c4d60905517c3c500aa5a",
+    "pergunta": "Como serão homologadas as horas de estudo dos gestores escolares que participarem de capacitações para lidar com as emergências?"
+  },
+  {
+    "id": "7eb915611b5c4d60905517c3c500aa5a",
+    "pergunta": "As secretarias podem obrigar docentes veteranos a refazer as trilhas de aprendizado se os dados apontarem estagnação na aprendizagem das turmas?"
+  },
+  {
+    "id": "7eb915611b5c4d60905517c3c500aa5a",
+    "pergunta": "Agentes comunitários ou conselheiros de educação atuantes no território estão contemplados dentre 'demais profissionais envolvidos' para receber o treinamento?"
+  },
+  {
+    "id": "0e74995c0ea546eb863f512ee69ed61d",
+    "pergunta": "A escola tem autonomia para priorizar habilidades da BNCC do 4º ano para alunos matriculados no 7º ano que ainda apresentam déficits de alfabetização?"
+  },
+  {
+    "id": "0e74995c0ea546eb863f512ee69ed61d",
+    "pergunta": "Como a priorização impulsionada pelo Pacto deve constar formalmente no registro do histórico escolar e certificado do estudante?"
+  },
+  {
+    "id": "0e74995c0ea546eb863f512ee69ed61d",
+    "pergunta": "Os referenciais do MEC recomendam trabalhar as matérias isoladamente ou apoiam a reorganização através de projetos interdisciplinares consolidados?"
+  },
+  {
+    "id": "0e74995c0ea546eb863f512ee69ed61d",
+    "pergunta": "A aprovação dessa nova matriz prioritária nos municípios dependerá de votação e deliberação obrigatória do Conselho Municipal?"
+  },
+  {
+    "id": "0e74995c0ea546eb863f512ee69ed61d",
+    "pergunta": "Se a rede estadual criar um guia de recomposição próprio divergente dos referenciais federais, como as prefeituras deverão padronizar as escolhas?"
+  },
+  {
+    "id": "17361a56bd9948349154a5bda955dd32",
+    "pergunta": "A ferramenta permite a exportação dos relatórios pedagógicos no formato de planilhas de Excel para discussão no conselho de classe bimestral?"
+  },
+  {
+    "id": "17361a56bd9948349154a5bda955dd32",
+    "pergunta": "O sistema do MEC aplica inteligência artificial para recomendar de forma automática planos de intervenção (trilhas formativas) para alunos com defasagem?"
+  },
+  {
+    "id": "17361a56bd9948349154a5bda955dd32",
+    "pergunta": "Os secretários municipais podem cruzar os resultados de proficiência apontados na Plataforma com o mapa de distribuição das verbas e repasses regionais?"
+  },
+  {
+    "id": "17361a56bd9948349154a5bda955dd32",
+    "pergunta": "Os professores deverão imputar manualmente as notas e frequências ou a plataforma absorve as planilhas do diário eletrônico escolar atual?"
+  },
+  {
+    "id": "17361a56bd9948349154a5bda955dd32",
+    "pergunta": "O progresso dos estudantes fica visível para os pais via aplicativo móvel ou os diretores devem imprimir os boletins extraídos do portal?"
+  },
+  {
+    "id": "ae9e44d636bf4b5085a746c4841f3d7b",
+    "pergunta": "Os materiais suplementares propostos pela política nacional já incluem versões em Libras e impressão em braille ou a adaptação fica a cargo do município?"
+  },
+  {
+    "id": "ae9e44d636bf4b5085a746c4841f3d7b",
+    "pergunta": "As avaliações diagnósticas para estudantes com deficiência intelectual levam em conta as flexibilizações estabelecidas pelo Plano de Desenvolvimento Individual (PDI)?"
+  },
+  {
+    "id": "ae9e44d636bf4b5085a746c4841f3d7b",
+    "pergunta": "Há verbas do eixo financeiro que possam ser destinadas à compra de pranchas de comunicação aumentativa ou software ledor para as escolas?"
+  },
+  {
+    "id": "ae9e44d636bf4b5085a746c4841f3d7b",
+    "pergunta": "A formação continuada inclui módulos sobre desenho universal para aprendizagem para os docentes do ensino regular que possuem crianças incluídas na sala?"
+  },
+  {
+    "id": "ae9e44d636bf4b5085a746c4841f3d7b",
+    "pergunta": "As diretrizes do Pacto exigem que o acompanhamento desses alunos seja feito exclusivamente na Sala de Recursos Multifuncionais ou no contraturno padrão?"
+  },
+  {
+    "id": "b0e91d227a52466e81040e7ef87f39dc",
+    "pergunta": "O ciclo avaliativo oferecido leva em conta abordagens andragógicas para evitar a infantilização das turmas de jovens e adultos durante os exames?"
+  },
+  {
+    "id": "b0e91d227a52466e81040e7ef87f39dc",
+    "pergunta": "O currículo priorizado disponibilizado pelo MEC abrange também o ensino médio da EJA ou está focado apenas nas fases do fundamental?"
+  },
+  {
+    "id": "b0e91d227a52466e81040e7ef87f39dc",
+    "pergunta": "Como as secretarias devem estruturar o material didático noturno de recomposição se o tempo de permanência desses alunos é historicamente reduzido na escola?"
+  },
+  {
+    "id": "b0e91d227a52466e81040e7ef87f39dc",
+    "pergunta": "Os relatórios de monitoramento das metas da EJA terão pesos diferentes devido às especificidades de evasão que afetam as classes noturnas?"
+  },
+  {
+    "id": "b0e91d227a52466e81040e7ef87f39dc",
+    "pergunta": "Haverá linhas de financiamento separadas para investir especificamente na formação dos docentes que atuam no segmento de jovens e adultos?"
+  },
+  {
+    "id": "0e986e92f50a4f14aeb7edbb87e828e7",
+    "pergunta": "A prefeitura pode empenhar parte dos repasses federais na impressão de cartilhas e peças de marketing local para a sensibilização dos responsáveis?"
+  },
+  {
+    "id": "0e986e92f50a4f14aeb7edbb87e828e7",
+    "pergunta": "Quais campanhas e estratégias de fortalecimento as equipes gestoras podem usar no conselho de escola para chamar pais ausentes?"
+  },
+  {
+    "id": "0e986e92f50a4f14aeb7edbb87e828e7",
+    "pergunta": "O plano de recomposição das aprendizagens exige a formalização de assembleias estudantis ou grêmios para o aluno ter participação ativa e voz?"
+  },
+  {
+    "id": "0e986e92f50a4f14aeb7edbb87e828e7",
+    "pergunta": "Como a plataforma acompanha o envolvimento familiar nas intervenções caso a criança realize estudos dirigidos ou projetos no ambiente de casa?"
+  },
+  {
+    "id": "0e986e92f50a4f14aeb7edbb87e828e7",
+    "pergunta": "As formações pedagógicas para os professores abordarão formas de comunicação não violenta e acolhimento direcionado aos estudantes em vulnerabilidade e risco social?"
+  }
+]
