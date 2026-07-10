@@ -1690,7 +1690,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "beautifulsoup4", specifier = ">=4.15.0" },
-    { name = "chromadb", specifier = ">=1.5.9" },
+    { name = "chromadb", extras = ["embeddings"], specifier = ">=1.5.9" },
     { name = "fastembed", specifier = ">=0.8.0" },
     { name = "jupyter", specifier = ">=1.1.1" },
     { name = "lxml", specifier = ">=6.1.1" },
