@@ -7,7 +7,7 @@ def get_embedding_function():
     """
     try:
         # Tenta a importação padrão (que deve funcionar se o ambiente estiver limpo)
-        return embedding_functions.FastEmbedEmbeddingFunction(model_name="intfloat/multilingual-e5-base")
+        return embedding_functions.FastEmbedEmbeddingFunction(model_name="intfloat/multilingual-e5-large")
     except AttributeError:
         # Se a classe não estiver disponível em utils, tentamos forçar o uso do modelo
         # via a classe genérica do Chroma se disponível, ou raise informativo.
