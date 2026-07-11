@@ -3,7 +3,7 @@ from fastembed import TextEmbedding
 class Embedder:
     def __init__(self):
         # Inicializa o modelo diretamente via FastEmbed
-        self.model = TextEmbedding(model_name="intfloat/multilingual-e5-base")
+        self.model = TextEmbedding(model_name="intfloat/multilingual-e5-large")
 
     def gerar_vetores(self, textos):
         """Recebe uma lista de textos e retorna uma lista de vetores."""
