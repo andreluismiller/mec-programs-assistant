@@ -17,3 +17,8 @@ dependencies = [
     "streamlit>=1.58.0",
 ]
 
+[dependency-groups]
+dev = [
+    "huggingface-hub>=1.22.0",
+]
+
