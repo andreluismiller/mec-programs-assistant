@@ -17,7 +17,6 @@ from sqlitesearch import TextSearchIndex, VectorSearchIndex
 
 # ------------------------------------------------------------------
 # 1. Carrega o dataset
-#    (ajuste o caminho para o seu arquivo json real)
 # ------------------------------------------------------------------
 DATASET_PATH = Path(__file__).parent / "data" / "raw" / "dataset_part.json"
 
@@ -82,6 +81,7 @@ DB_PATH = "faq_mec.db"
 vector_index = VectorSearchIndex(
     keyword_fields=["sigla", "termos", "sinonimos"],
     id_field="doc_id",
+    mode="ivf",
     db_path=DB_PATH,
 )
 vector_index.fit(X, documents)
@@ -122,7 +122,7 @@ def hybrid_search(query: str, k: int = 5, rrf_k: int = 60):
 if __name__ == "__main__":
     exemplo = hybrid_search("Quem pode ser atendido pela educação especial?")
     for doc in exemplo:
-        print("-", doc["nome"], "|", doc["pergunta"])
+        print("-", doc["nome"], "|", doc["pergunta"], "|", doc["resposta"])
 
 
 
