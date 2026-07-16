@@ -14,6 +14,7 @@ ONNX_CANDIDATES = [
 ]
 
 def download(repo, dest="models"):
+    """Baixa o modelo do Hugging Face Hub para o diretório local."""
     dest = Path(dest) / repo
     dest.mkdir(parents=True, exist_ok=True)
 

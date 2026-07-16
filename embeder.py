@@ -4,20 +4,28 @@ from tokenizers import Tokenizer
 from pathlib import Path
 
 
+MAX_SEQ_LENGTH = 512
+
+
 class Embeder:
     def __init__(self, path="models/Xenova/multilingual-e5-base"):
         path = Path(path)
         self.tokenizer = Tokenizer.from_file(str(path / "tokenizer.json"))
+        self.tokenizer.enable_truncation(max_length=MAX_SEQ_LENGTH)
+        # enable_padding é uma configuração do tokenizer (não do batch),
+        # então basta chamar uma vez aqui — não a cada encode_batch.
+        self.tokenizer.enable_padding()
         self.session = ort.InferenceSession(
             str(path / "model.onnx"), providers=["CPUExecutionProvider"]
         )
         self.input_names = {inp.name for inp in self.session.get_inputs()}
 
     def encode(self, text, normalize=True):
+        """Gera o embedding de um único texto."""
         return self.encode_batch([text], normalize=normalize)[0]
 
     def encode_batch(self, texts, normalize=True):
-        self.tokenizer.enable_padding()
+        """Gera os embeddings de uma lista de textos."""
         encoded = self.tokenizer.encode_batch(texts)
         feed = {}
         if "input_ids" in self.input_names:
