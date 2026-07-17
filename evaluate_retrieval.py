@@ -1,4 +1,5 @@
 
+import argparse
 import inspect
 import json
 import re
@@ -109,11 +110,36 @@ def evaluate(ground_truth: list[dict], search_function, k: int = 5, query_vector
     }
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Avalia recuperação (Hit Rate e MRR) sobre o ground truth do MEC."
+    )
+    parser.add_argument(
+        "--limit",
+        "-n",
+        type=int,
+        default=None,
+        help="Avalia só as N primeiras perguntas do ground truth combinado (padrão: todas).",
+    )
+    parser.add_argument(
+        "--k",
+        type=int,
+        default=5,
+        help="Tamanho do top-k considerado em cada busca (padrão: 5).",
+    )
+    return parser.parse_args()
+
+
 if __name__ == "__main__":
+    args = parse_args()
+
     ground_truth = load_ground_truth()
+    if args.limit is not None:
+        ground_truth = ground_truth[: args.limit]
+        print(f"--limit={args.limit}: avaliando apenas as {len(ground_truth)} primeiras perguntas\n")
+
     query_vectors = precompute_query_vectors(ground_truth)
 
-    K = 5
     metodos = {
         "Busca textual": text_search,
         "Busca vetorial": vector_search,
@@ -121,7 +147,7 @@ if __name__ == "__main__":
     }
 
     resultados = {
-        nome: evaluate(ground_truth, fn, k=K, query_vectors=query_vectors)
+        nome: evaluate(ground_truth, fn, k=args.k, query_vectors=query_vectors)
         for nome, fn in metodos.items()
     }
 
